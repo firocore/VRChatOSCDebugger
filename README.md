@@ -1,4 +1,3 @@
-```markdown
 # VRChatOSCDebugger
 
 A tool for monitoring and debugging OSC messages in VRChat.
