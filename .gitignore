@@ -2,6 +2,7 @@ test.py
 params.txt
 osc_live_params.json
 vrchat_settings_cache.json
+ignored_params.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
